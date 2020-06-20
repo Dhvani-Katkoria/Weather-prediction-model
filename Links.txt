@@ -1,0 +1,14 @@
+Decision Tree model pickle file
+https://drive.google.com/file/d/1gqLKCmNxQmDEdzMtKs5b1rqX0xRbCokV/view?usp=sharing
+
+Gaussian Naive Bayes pickle file
+https://drive.google.com/file/d/1khJQl3vdaVq77-065uzksLs4epD4K5FW/view?usp=sharing
+
+Logistic regression pickle file
+https://drive.google.com/file/d/1UgVbYTNjOfYyfLbuDIPwHHWBgPZbO4F1/view?usp=sharing
+
+Random forest pickle file
+https://drive.google.com/file/d/1bZCFR5JQ9tgwU3WQ7dFrgnPSG4JB8MmC/view?usp=sharing
+
+Data file
+https://drive.google.com/file/d/1rrtvthLO3FpXFMlkgQ6C4yr-fi8yB7gx/view
